@@ -1,1 +1,5 @@
-Omelette Recipe page
+# Omelette Recipe page
+
+
+![Omelette Recipe](./assets/images/Result-Sample.png)
+
