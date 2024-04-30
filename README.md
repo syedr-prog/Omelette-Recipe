@@ -1,5 +1,5 @@
 # Omelette Recipe page
 
 
-![Omelette Recipe](./assets/images/Result-Sample.png)
+![Omelette Recipe](./assets/images/Result-Sample.jpeg)
 
